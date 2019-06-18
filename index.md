@@ -1,6 +1,6 @@
 # **Me**
 
-Hi, my name is Kevin Tuchman and this is my learning journal. [Link to profile](https://github.com/kevintuchman)
+Hi, my name is Kevin Tuchman and this is my learning journal. I'm taking this course for a career change from the seaman industry.  [Link to profile](https://github.com/kevintuchman)
 
 ## **Growth Mindset**
 
