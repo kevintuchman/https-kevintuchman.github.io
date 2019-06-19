@@ -13,7 +13,7 @@ Growth mindset is a concept that believes intelligence and talent are starting p
 
 ## **Markdown**
 
-Markdown is a syntax that is easy to learn and is used to add style to your text on your website. Example of markdown include:
+Markdown is a syntax that is easy to learn and is used to add style to your text on your website. Example of Markdown include:
 ```javascript
 # for title size (between 1 and 6)
 ** for bold
@@ -28,4 +28,4 @@ info | info
 ~~strikethrough~~
 ```
 
-Even though you could memorize all the syntax, you should just bookmark the list [instead](https://help.github.com/en/articles/basic-writing-and-formatting-syntax). Even though I'm a novice at coding, I found markdown easier to learn compared to other syntax because it only requires you to use non-alphabetic characters to use.
+Even though you could memorize all the syntax, you should just bookmark the list [instead](https://help.github.com/en/articles/basic-writing-and-formatting-syntax). Also, Github has its own version of Markdown syntax so some Markdown may not work here, possibly. Even though I'm a novice at coding, I found Markdown easier to learn compared to other syntax because it only requires you to use non-alphabetic characters to use.
