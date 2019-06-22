@@ -6,3 +6,4 @@ Hi, my name is Kevin Tuchman and this is my learning journal. I'm taking this co
 [day2](day2.md)
 [day3](day3.md)
 [day4](day4.md)
+[day5](day5.md)
