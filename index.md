@@ -67,3 +67,7 @@ git push origin master
 git status
 
 git clone
+
+## Text Editors
+
+There are two options for text editors: the editor that comes with your computer and third-party options. The editors that comes with your computer don't have many features to tinker with. Third party editors have better settings and more options for extensions and are generally better. Third party editors also have communities that share tips and can answer questions. For example, Notepad++ has a community and a wiki for research. However, you should use an editor that works for you; doesn't matter if it's the basic Notepad of fancy Visual Studio Code.
