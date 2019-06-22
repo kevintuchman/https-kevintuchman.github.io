@@ -41,3 +41,5 @@ path – means to get to a particular file or directory; there are two types of 
 cd – change directories
 
 ls -a – lists the contents of directory e.g. hidden files
+
+command line (could also be called a terminal) – text-based interface to the system
