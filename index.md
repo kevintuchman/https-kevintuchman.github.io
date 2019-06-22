@@ -43,3 +43,27 @@ cd – change directories
 ls -a – lists the contents of directory e.g. hidden files
 
 command line (could also be called a terminal) – text-based interface to the system
+
+version control system (vcs) – system that allows you to check various versions of your files and do the following: revert a file/project, track modifications, modifying, and comparing change
+
+GIT – VCS that allows multiple developers to work on the same code
+
+Commit – a saved, changed version of your file; each commit has a short, sweet message attached.
+
+HEAD – “You Are Here”
+
+Github – website to store and share code
+
+Repository – collection of files on Github or on your computer
+
+git add --all
+
+git commit -m "description"
+
+mkdr – make directory
+
+git push origin master
+
+git status
+
+git clone
