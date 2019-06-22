@@ -29,3 +29,15 @@ info | info
 ```
 
 Even though you could memorize all the syntax, you should just bookmark the list [instead](https://help.github.com/en/articles/basic-writing-and-formatting-syntax). Also, Github has its own version of Markdown syntax so some Markdown may not work here, possibly. Even though I'm a novice at coding, I found Markdown easier to learn compared to other syntax because it only requires you to use non-alphabetic characters to use.
+
+## Lab 02 "Cheat Sheet"
+
+pwd - print working directory
+
+ls - list
+
+path – means to get to a particular file or directory; there are two types of paths: absolute or relative 
+
+cd – change directories
+
+ls -a – lists the contents of directory e.g. hidden files
