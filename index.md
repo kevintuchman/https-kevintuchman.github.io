@@ -8,3 +8,4 @@ Hi, my name is Kevin Tuchman and this is my learning journal. I'm taking this co
 [day4](day4.md)
 [day5](day5.md)
 [day6](day6.md)
+[day7](day7.md)
