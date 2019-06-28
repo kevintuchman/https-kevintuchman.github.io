@@ -9,4 +9,5 @@ Hi, my name is Kevin Tuchman and this is my learning journal. I'm taking this co
 [day5](day5.md)
 [day6](day6.md)
 [day7](day7.md)
+[day8](day8.md)
 ["videogames"](https://kevintuchman.github.io/video-games/)
